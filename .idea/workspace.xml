@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f45cea0f-ec0f-4c43-9c16-53a5bbeda571" name="Changes" comment="HW#1">
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_2/HW_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2/HW2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_1/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW1/HW1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_2/HW2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +49,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_2.HW2" />
+      <module name="Havrylets_Valeriia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HW2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +79,11 @@
       <updated>1677701743125</updated>
       <workItem from="1677701745101" duration="2752000" />
       <workItem from="1677773003614" duration="330000" />
+      <workItem from="1678053482270" duration="597000" />
+      <workItem from="1678140533518" duration="597000" />
+      <workItem from="1678181262430" duration="132000" />
+      <workItem from="1678372955711" duration="444000" />
+      <workItem from="1678373480238" duration="3266000" />
     </task>
     <task id="LOCAL-00001" summary="HW#1">
       <created>1677703919511</created>
@@ -71,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677703919511</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW#1">
+      <created>1678053715677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678053715677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

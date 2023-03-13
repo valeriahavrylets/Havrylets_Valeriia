@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f45cea0f-ec0f-4c43-9c16-53a5bbeda571" name="Changes" comment="HW#1">
-      <change afterPath="$PROJECT_DIR$/src/HW2/HW2.java" afterDir="false" />
+    <list default="true" id="f45cea0f-ec0f-4c43-9c16-53a5bbeda571" name="Changes" comment="HW#2">
+      <change afterPath="$PROJECT_DIR$/src/HW3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/BankClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/CreditAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/DebitAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW3/HW3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_1/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW1/HW1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_2/HW2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -83,7 +92,11 @@
       <workItem from="1678140533518" duration="597000" />
       <workItem from="1678181262430" duration="132000" />
       <workItem from="1678372955711" duration="444000" />
-      <workItem from="1678373480238" duration="3266000" />
+      <workItem from="1678373480238" duration="3477000" />
+      <workItem from="1678384064391" duration="3000" />
+      <workItem from="1678385419679" duration="600000" />
+      <workItem from="1678556994526" duration="4000" />
+      <workItem from="1678734785334" duration="8763000" />
     </task>
     <task id="LOCAL-00001" summary="HW#1">
       <created>1677703919511</created>
@@ -99,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678053715677</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HW#1">
+      <created>1678377426825</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678377426825</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HW#2">
+      <created>1678377447388</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678377447388</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW#1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW#1" />
+    <MESSAGE value="HW#2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW#2" />
   </component>
 </project>

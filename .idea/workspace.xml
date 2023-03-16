@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f45cea0f-ec0f-4c43-9c16-53a5bbeda571" name="Changes" comment="HW#2">
-      <change afterPath="$PROJECT_DIR$/src/HW3/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW3/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW3/BankClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW3/CreditAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW3/DebitAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW3/HW3.java" afterDir="false" />
+    <list default="true" id="f45cea0f-ec0f-4c43-9c16-53a5bbeda571" name="Changes" comment="HW#3">
+      <change afterPath="$PROJECT_DIR$/src/HW4/HW4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW2/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW2/HW2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +92,9 @@
       <workItem from="1678384064391" duration="3000" />
       <workItem from="1678385419679" duration="600000" />
       <workItem from="1678556994526" duration="4000" />
-      <workItem from="1678734785334" duration="8763000" />
+      <workItem from="1678734785334" duration="9538000" />
+      <workItem from="1678781698480" duration="9000" />
+      <workItem from="1678974308983" duration="1126000" />
     </task>
     <task id="LOCAL-00001" summary="HW#1">
       <created>1677703919511</created>
@@ -126,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678377447388</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HW#3">
+      <created>1678744251476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678744251476</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HW#3">
+      <created>1678744306314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678744306314</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +147,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW#1" />
     <MESSAGE value="HW#2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW#2" />
+    <MESSAGE value="HW#3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW#3" />
   </component>
 </project>

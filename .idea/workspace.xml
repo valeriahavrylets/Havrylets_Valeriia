@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f45cea0f-ec0f-4c43-9c16-53a5bbeda571" name="Changes" comment="HW#3">
-      <change afterPath="$PROJECT_DIR$/src/HW4/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Interface/AreaMeasurable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Interface/PerimeterMeasurable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Interface/VolumeMeasurable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/PlaneShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/SpaceShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/SquarePyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Vertices/Vertex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW2/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW2/HW2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW4/HW4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW4/HW4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +106,11 @@
       <workItem from="1678556994526" duration="4000" />
       <workItem from="1678734785334" duration="9538000" />
       <workItem from="1678781698480" duration="9000" />
-      <workItem from="1678974308983" duration="1126000" />
+      <workItem from="1678974308983" duration="3800000" />
+      <workItem from="1679075753406" duration="885000" />
+      <workItem from="1679080761371" duration="2000" />
+      <workItem from="1679083504036" duration="2112000" />
+      <workItem from="1679227354140" duration="6632000" />
     </task>
     <task id="LOCAL-00001" summary="HW#1">
       <created>1677703919511</created>
@@ -138,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678744306314</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HW#3">
+      <created>1678976303745</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678976303745</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

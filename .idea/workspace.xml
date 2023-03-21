@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f45cea0f-ec0f-4c43-9c16-53a5bbeda571" name="Changes" comment="HW#3">
-      <change afterPath="$PROJECT_DIR$/src/HW4/Interface/AreaMeasurable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Interface/PerimeterMeasurable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Interface/VolumeMeasurable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/PlaneShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/SpaceShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/SquarePyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Shapes/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Vertices/Vertex.java" afterDir="false" />
+    <list default="true" id="f45cea0f-ec0f-4c43-9c16-53a5bbeda571" name="Changes" comment="HW#4">
+      <change afterPath="$PROJECT_DIR$/src/HW5/HW5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW5/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW5/MyList2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW4/HW4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW4/HW4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +99,9 @@
       <workItem from="1679075753406" duration="885000" />
       <workItem from="1679080761371" duration="2000" />
       <workItem from="1679083504036" duration="2112000" />
-      <workItem from="1679227354140" duration="6632000" />
+      <workItem from="1679227354140" duration="7632000" />
+      <workItem from="1679315738450" duration="76000" />
+      <workItem from="1679420782083" duration="2489000" />
     </task>
     <task id="LOCAL-00001" summary="HW#1">
       <created>1677703919511</created>
@@ -161,7 +152,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678976303745</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HW#3">
+      <created>1679234662160</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679234662160</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HW#3">
+      <created>1679234673824</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679234673824</updated>
+    </task>
+    <task id="LOCAL-00010" summary="HW#4">
+      <created>1679234686048</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679234686048</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +183,7 @@
     <MESSAGE value="HW#1" />
     <MESSAGE value="HW#2" />
     <MESSAGE value="HW#3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW#3" />
+    <MESSAGE value="HW#4" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW#4" />
   </component>
 </project>
